@@ -1,4 +1,4 @@
-Dieses Bash-Skript sammelt folgende Systeminformationen und speichert sie in einer Textdatei.
+Dieses Bash-Skript sammelt folgende Systeminformationen und speichert sie in einer Textdatei:
 
 Allgemeine Systeminfos (Kernel, Architektur etc.)
 Detaillierte Hardware- und Systeminfo (muss installiert sein!)
